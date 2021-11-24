@@ -33,6 +33,6 @@
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username={F1nnD3v}&theme=blue-green)
+![stats](https://github-readme-stats.vercel.app/api?username={https://github.com/F1nnD3v}&theme=blue-green)
 
 ![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username={F1nnD3v}&theme=blue-green)
