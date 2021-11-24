@@ -1,4 +1,4 @@
-##Hi im F1nn 🖐
+Hi im F1nn 🖐
 ---
 
 ![followers](https://img.shields.io/github/followers/{F1nnD3v}.svg?style=social&label=Follow&maxAge=2592000)
