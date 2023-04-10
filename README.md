@@ -12,7 +12,7 @@ Skills I want to learn:
 ---
 
 Links you might wanna:
-![codepen](https://skillicons.dev/icons?i=codepen)(https://codepen.io/F1nnD3v)
+[![codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/F1nnD3v)
 
 ---
 
