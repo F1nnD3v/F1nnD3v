@@ -3,7 +3,7 @@
 
 ## Skills:
 
-![My Skills](https://skillicons.dev/icons?i=html,js,css,androidstudio,ae,react,cs,bots,dotnet,electron,express,git,ai,java,js,laravel,mysql,nextjs,nodejs,ps,php,postgres,pr,prisma,py,sqlite,tailwind,ts,unity&perline=5)
+![My Skills](https://skillicons.dev/icons?i=html,js,css,androidstudio,ae,react,cs,bots,dotnet,electron,express,git,java,js,laravel,mysql,nextjs,nodejs,ps,php,postgres,pr,prisma,py,sqlite,tailwind,ts,unity&perline=5)
 ---
 
 ## Skills I want to learn:
