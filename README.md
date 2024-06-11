@@ -3,12 +3,12 @@
 
 ## Skills:
 
-![My Skills](https://skillicons.dev/icons?i=html,js,css,androidstudio,ae,react,cs,bots,dotnet,electron,express,git,java,laravel,mysql,nextjs,nodejs,ps,php,postgres,pr,prisma,py,sqlite,tailwind,ts,unity,flask,gitlab,tensorflow&perline=5)
+![My Skills](https://skillicons.dev/icons?i=html,js,css,androidstudio,ae,react,cs,bots,dotnet,electron,express,git,java,laravel,mysql,nextjs,nodejs,ps,php,postgres,vite,pr,prisma,py,sqlite,tailwind,ts,unity,flask,gitlab,tensorflow&perline=5)
 ---
 
 ## Skills I want to learn:
 
-![Skills to learn](https://skillicons.dev/icons?i=angular,c,cpp,docker,firebase,go,lua,pytorch,raspberrypi,rust,swift,threejs,vite,flutter,blender,graphql&perline=5)
+![Skills to learn](https://skillicons.dev/icons?i=angular,c,cpp,docker,firebase,go,lua,pytorch,raspberrypi,rust,swift,threejs,flutter,blender,graphql&perline=5)
 
 
 ---
