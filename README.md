@@ -2,7 +2,7 @@
 ---
 
 ## Skills:
-
+(Note that I know these languages but I might not be expert on them)
 ![My Skills](https://skillicons.dev/icons?i=html,js,css,androidstudio,ae,react,cs,bots,dotnet,electron,express,git,java,laravel,mysql,nextjs,nodejs,ps,php,postgres,vite,pr,prisma,py,sqlite,tailwind,ts,unity,flask,gitlab,tensorflow&perline=5)
 ---
 
