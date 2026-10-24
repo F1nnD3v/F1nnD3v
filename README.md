@@ -1,15 +1,14 @@
-<!-- Animated header -->
+<!-- Header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,50:581c87,100:06b6d4&text=F1nn&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Professional%20Bug%20Maker&descAlignY=60&animation=fadeIn" alt="F1nn header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,50:581c87,100:06b6d4&text=F1nn&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Fullstack%20dev%20by%20day%20%E2%80%A2%20ML%20%26%20games%20by%20night&descAlignY=60&animation=fadeIn" alt="F1nn — fullstack dev by day, ML & games by night"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Building+whatever+sounds+interesting...;Web+%E2%80%A2+Apps+%E2%80%A2+Games+%E2%80%A2+Automation;Learning+by+creating+%26+breaking+things" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Shipping+.NET+%2B+React+in+production;Teaching+RL+agents+to+play+games;Building+bots%2C+games+%26+dev+tools;Probably+breaking+something+right+now..." alt="Shipping .NET + React in production · Teaching RL agents to play games · Building bots, games & dev tools"/>
 
 <br>
 
+[![X](https://img.shields.io/badge/X-09090b?style=for-the-badge&logo=x&logoColor=white)](https://x.com/f1nn21_)
 [![CodePen](https://img.shields.io/badge/CodePen-09090b?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/F1nnD3v)
-[![GitHub](https://img.shields.io/badge/GitHub-09090b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F1nnD3v)
-![Profile Views](https://komarev.com/ghpvc/?username=F1nnD3v&style=for-the-badge&color=7e22ce&label=VISITORS)
 
 </div>
 
@@ -17,56 +16,60 @@
 
 ## `> whoami`
 
-
+```js
 const finn = {
-    role: "Developer",
-    interests: ["Web", "Apps", "Games", "Automation"],
-    currentlyLearning: ["Rust", "Go", "Docker", "PyTorch"],
-    philosophy: "If it works, improve it. If it breaks, learn from it.",
-    status: "Probably building something..."
+  role: "Fullstack Developer",
+  location: "Portugal",
+  experience: "3+ years shipping enterprise software",
+  dayJob: [".NET / C#", "React / Next.js", "Docker"],
+  afterHours: ["ML & RL experiments", "Game dev", "Bots & automation", "Dev tooling"],
+  currentlyLearning: ["Rust", "Go"],
+  philosophy: "If it works, improve it. If it breaks, learn from it.",
+  status: "Probably building something...",
 };
-
+```
 
 <br>
 
-## `> toolkit`
+## `> ls ~/projects`
+
+| Project | What it does | Built with |
+| :-- | :-- | :-- |
+| [**change-codex-background**](https://github.com/F1nnD3v/change-codex-background) | Reversible runtime theme that puts a custom background on the Codex desktop app without touching the signed install. Works on Windows, macOS and Linux. | JavaScript · Shell · PowerShell |
+
+<!--
+  Add 2–4 more rows to the table above using this pattern.
+  Pick repos that have a README and, ideally, a screenshot or GIF.
+
+  | [**repo-name**](https://github.com/F1nnD3v/repo-name) | One line: what it does + the interesting part. | Stack |
+-->
+
+<br>
+
+## `> cat stack.txt`
 
 <div align="center">
 
-### Languages
+**Daily drivers**
 
-<img src="https://skillicons.dev/icons?i=cs,java,py,js,ts,html,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,nextjs,py,pytorch,docker&theme=dark" alt="C#, .NET, TypeScript, React, Next.js, Python, PyTorch, Docker"/>
 
-### Frameworks & Runtime
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,flask,tailwind,vite,electron&theme=dark" alt="Frameworks and runtime"/>
+**Also in the toolbox**
 
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma,git,androidstudio,unity,ps,ae,pr&theme=dark" alt="Databases and tools"/>
+<img src="https://skillicons.dev/icons?i=js,java,nodejs,express,flask,tailwind,vite,electron,postgres,mysql,sqlite,prisma,git,linux,unity,androidstudio,ps,ae,pr&perline=10&theme=dark" alt="JavaScript, Java, Node.js, Express, Flask, Tailwind, Vite, Electron, PostgreSQL, MySQL, SQLite, Prisma, Git, Linux, Unity, Android Studio, Photoshop, After Effects, Premiere"/>
 
 </div>
 
 <br>
 
-## `> loading_next`
+## `> git log --stat`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,c,cpp,docker,firebase,go,lua,pytorch,raspberrypi,rust,swift,threejs,flutter,blender,graphql&perline=8&theme=dark" alt="Technologies I am learning"/>
-
-<sub>Not collecting technologies — learning the ones that help me build better things.</sub>
-
-</div>
-
-<br>
-
-## `> statistics`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=F1nnD3v&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9&ring_color=a855f7" alt="F1nn's GitHub statistics"/>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1nnD3v&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" alt="F1nn's most used languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=F1nnD3v&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9" alt="F1nn's GitHub stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=F1nnD3v&hide_border=true&background=0d1117&ring=a855f7&fire=06b6d4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="F1nn's contribution streak"/>
 
 <br><br>
 
@@ -78,12 +81,6 @@ const finn = {
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────┐
-│  Thanks for visiting — come back sometime.  │
-└──────────────────────────────────────────────┘
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:581c87,100:09090b" alt="Footer"/>
+<sub>Thanks for stopping by — if something here looks interesting, say hi on <a href="https://x.com/f1nn21_">X</a>.</sub>
 
 </div>
